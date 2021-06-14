@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(223, 238, 8);
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+ul li a{
+    text-decoration: none;  
+}
+h1{
+    color: coral;
+    margin: 10px;
+}
+p {
+text-align: center;
+}
+img{
+    margin: 10px;
+}
+.footer{
+    
+    margin: 5px;
+}
+.hakkimizda{
+    text-align: center;
+    padding: 100px;
+
+}
+.button{
+    font-size: 20px;
+    color: red;
+
+}
+.container{
+    margin: 50px;
+}
+.adres{
+    margin: 200px;
+}
